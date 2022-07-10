@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "livelikeCamo"
+title                    : "카모일체화 블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Camoma1"
-description              : "Natural born camo"
+name                     : "카모마1(숨거나 튀거나)"
+description              : "내산책길은 깨끗했으면 하는 마음으로 순환Recycling"
 url                      : "https://livelikecamo.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
