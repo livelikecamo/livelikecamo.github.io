@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "카모일체화 블로그"
+title                    : "카모마1"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "카모마1(숨거나 튀거나)"
-description              : "내산책길은 깨끗했으면 하는 마음으로 순환Recycling"
+name                     : "livelikecamo"
+description              : "-"
 url                      : "https://livelikecamo.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,10 +104,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "카모마1"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "산책길이 깨끗했으면 하는 마음으로 실천하는 **순환Recycling**"
+  location         : "Jeju **'the pure'"" island"
   email            :
   links:
     - label: "Email"
