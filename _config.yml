@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "카모마1"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "livelikecamo"
+name                     : "카모마1"
 description              : "-"
 url                      : "https://livelikecamo.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -107,7 +107,7 @@ author:
   name             : "카모마1"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "산책길이 깨끗했으면 하는 마음으로 실천하는 **순환Recycling**"
-  location         : "Jeju **'the pure'"" island"
+  location         : "Jeju **the pure** island"
   email            :
   links:
     - label: "Email"
